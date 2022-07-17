@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="stylesheet_mod2.css">
+<title>Menu Card</title>
+
+</head>
+<body>
+  <h1 id="main">Our Menu</h1>
+  <section class="row">
+    <div id="box" class="col-lg-4 col-md-6">
+      
+      <div id="content"><p id="heading" style="background-color:  #FFB6C1">Chicken</p><div id="try">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</div></div>
+    </div>
+    <div id="box" class="col-lg-4 col-md-6">
+ 
+      <div id="content"><p id="heading">Beef</p><div id="try">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</div></div>
+    </div>
+    <div id="box" class="col-lg-4 col-md-12">
+      
+      <div id="content"><p id="heading" style="background-color:  #FFEFD5">Sushi</p><div id="try">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</div></div>
+    </div>
+  </section>
+</body>
+</html>
